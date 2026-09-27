@@ -1,36 +1,44 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7F00FF&height=200&section=header&text=Eman%20Ijaz&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:7F00FF&height=230&section=header&text=EMAN%20IJAZ&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&stroke=A78BFA&strokeWidth=1" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+AI+that+ships.;LLM+apps.+AI+agents.+Production+systems.;From+prototype+to+real+users." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=I+build+AI+that+ships.;LLM+apps.+AI+agents.+Production+systems.;Currently+running+in+production+at+Honda.;From+prototype+to+real+users." />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eman-ijaz-767b1a39b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:eman.ijaz733@gmail.com"><img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-SWE%20%26%20AI%20Roles-7F00FF?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=emanijaz733-hub&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=5000&color=A78BFA&vCenter=true&repeat=false&width=400&height=40&lines=%3E+about_me" />
 
 Most AI projects never leave the demo stage. I build the ones that do.
 
 I'm a Computer Science student in Lahore who builds AI systems end to end: the model logic, the backend, the interface, and the part everyone skips, which is making it reliable enough for real people to use every day.
 
-My CV screening system is **running in production at Honda Atlas Cars Pakistan**, where the HR team uses it to rank real applicants. I've also built an agentic lead-scoring pipeline for their sales team, with a human in the loop before anything goes out.
+```python
+class EmanIjaz:
+    location   = "Lahore, Pakistan"
+    education  = "BS Computer Science"
+    focus      = ["LLM applications", "AI agents", "RAG", "backend systems"]
+    also_into  = ["cybersecurity", "digital forensics"]
+    learning   = "multi-agent orchestration with LangGraph"
 
-```text
-focus     →  LLM applications, AI agents, RAG, backend systems
-also      →  cybersecurity and digital forensics
-learning  →  multi-agent orchestration with LangGraph
+    def in_production(self):
+        return "AI CV screening system, used by the HR team at Honda Atlas Cars Pakistan"
+
+    def open_to(self):
+        return ["Software Engineering roles", "AI / ML Engineering roles"]
 ```
 
 <br/>
 
-## Featured Work
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=5000&color=A78BFA&vCenter=true&repeat=false&width=400&height=40&lines=%3E+featured_work" />
 
 <table>
   <tr>
@@ -68,7 +76,7 @@ learning  →  multi-agent orchestration with LangGraph
 
 <br/>
 
-## Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=5000&color=A78BFA&vCenter=true&repeat=false&width=400&height=40&lines=%3E+tech_stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,tailwind,fastapi,nodejs&theme=dark&perline=7" />
@@ -78,7 +86,15 @@ learning  →  multi-agent orchestration with LangGraph
 
 <br/>
 
-## Activity
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=5000&color=A78BFA&vCenter=true&repeat=false&width=400&height=40&lines=%3E+achievements" />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emanijaz733-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=5000&color=A78BFA&vCenter=true&repeat=false&width=400&height=40&lines=%3E+activity" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emanijaz733-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=7F00FF" height="165" />
@@ -87,6 +103,10 @@ learning  →  multi-agent orchestration with LangGraph
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=emanijaz733-hub&theme=tokyonight&hide_border=true&background=0d1117&ring=7F00FF&fire=A78BFA&currStreakLabel=A78BFA" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emanijaz733-hub/emanijaz733-hub/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 <p align="center">
@@ -100,6 +120,4 @@ learning  →  multi-agent orchestration with LangGraph
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:302b63,100:0f0c29&height=120&section=footer" />
-</p>
+<p
