@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+AI+that+ships.;LLM+apps+%E2%80%A2+AI+agents+%E2%80%A2+RAG;In+production+at+Honda+Atlas+Cars;From+prototype+to+real+users." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+AI+that+ships.;LLM+apps+%E2%80%A2+AI+agents+%E2%80%A2+RAG;Solving+real+problems+with+AI;From+prototype+to+real+users." />
 </p>
 
 <p align="center">
@@ -18,16 +18,16 @@
 
 ### Most AI projects never leave the demo stage. I build the ones that do.
 
-I'm an AI engineer who starts with the problem, not the model. Before I write a single line of code, I want to know who is stuck, what's slowing them down, and what "solved" actually looks like for them. Then I build the system that fixes it, and I keep going until it works for real users, not just in a demo.
+I'm an AI engineer who starts with the problem, not the model. Before I write any code, I want to know who is stuck, what's slowing them down, and what "solved" actually looks like for them. Then I build the thing that fixes it, and I keep going until it works for real users, not just in a demo.
 
-That's how my work at **Honda Atlas Cars Pakistan** happened. The HR team was reading every CV by hand, one at a time. I built an AI screening system that reads the whole batch, scores each candidate against the job description and explains every score in plain words. It's now **live in production** and part of how they shortlist real applicants.
+Most of my work sits where LLMs meet real-world messiness: documents that don't follow a format, users who write in Roman Urdu, data that's incomplete, and decisions that need a reason a human can check. I've built RAG assistants that answer from real sources, AI agents that plan and act with tools, research tools that pull from multiple providers and cite their answers, and bilingual assistants made for users in Pakistan. I'm also working on a language model for Roman Urdu, because the way millions of people actually type is still badly served by today's AI.
 
-On the sales side, leads were coming in from Facebook Ads, the website and walk-ins with no way to tell which ones mattered. I built an **AI agent** that filters spam, scores every lead, sorts it Hot / Warm / Cold and drafts the follow-up, while a person still approves every message before it goes out.
+Some of this work is already in production. One of my systems is used by a major automaker's HR team to shortlist real applicants.
 
-**What I care about when I build:**
-- **Real problems first.** If it doesn't save someone time or money, it's not worth shipping.
-- **Explainable AI.** Every decision the system makes should come with a reason a person can check.
-- **Humans in control.** AI does the heavy lifting; people make the final call.
+**How I build:**
+- **Real problems first.** If it doesn't save someone time, money or effort, it's not worth shipping.
+- **Explainable by default.** Every output should come with a reason a person can check.
+- **Humans stay in control.** AI does the heavy lifting; people make the final call.
 - **Built to last.** Tests, evaluation and clean code, so it keeps working after the demo.
 
 **Right now I'm going deeper into** multi-agent systems, RAG and taking LLM apps from prototype to production.
@@ -43,7 +43,7 @@ On the sales side, leads were coming in from Facebook Ads, the website and walk-
         <img src="https://raw.githubusercontent.com/emanijaz733-hub/cv-ranking/main/docs/screenshots/03-cv-ranked-shortlist.png" />
       </a>
       <h3>AI CV Ranking System</h3>
-      <p><b>Live in production at Honda.</b> Reads a batch of CVs, scores each against the job description, and explains every score. Uncertain reads are flagged for a human.</p>
+      <p><b>Live in production.</b> Reads a batch of CVs, scores each against the job description, and explains every score. Uncertain reads are flagged for a human.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
